@@ -1,0 +1,391 @@
+@media only screen and (max-width: 1199px) {
+    .navbar-light .navbar-nav .nav-link {
+                font-size: 12px;
+        
+    }
+    .navbar-light .navbar-nav .active>.nav-link {
+        font-size: 12px;
+    }
+    .phead p {
+        font-size: 12px;
+        font-weight: 400;
+        padding: 0 335px;
+    }
+    .phead span {
+        
+        width: 40px;
+        height: 2px;
+    }
+    .iphone {
+        margin-top: 95px;
+    }
+    .mln-all {
+        margin-top: 30px;
+    }
+    .consultation-section .heading h1 {
+        
+        padding-top: 50px;
+    
+    }
+    .consultation-section {
+       
+        height: 500px;
+    }
+
+    .blogs h3 {
+        font-size: 14px;
+        font-weight: 700;
+    }
+    .blogs p {
+        font-size: 12px;
+    }
+    .blogs ul {
+        list-style: none;
+        font-size: 12px;
+        margin-left: -8px;
+    }
+    .feedback-section .heading p {
+        font-size: 11px;
+        font-weight: 400;
+        margin: 0px 237px 1px;
+    }
+    .feedback-section .heading h1 {
+        font-size: 18px;
+    }
+    .heading span {
+        width: 40px;
+        height: 2px;
+        margin: 20px auto;
+    }
+
+    .feedback-section .heading span {
+        margin: 20px auto;
+    }
+    .bottom-footer ul li a {
+        color: #989898;
+        font-size: 10px;
+        font-weight: 500;
+    }
+    .bottom-footer p {
+        color: #989898;
+        margin-top: 10px;
+        font-size: 12px;
+    }
+    .flaticon-facebook:before { content: "\f106"; 
+        font-family: Flaticon;
+        font-size: 40px;
+      font-style: normal;
+      margin-left: 0px;
+      }
+      .flaticon-instagram:before { content: "\f107";
+        font-family: Flaticon;
+        font-size: 40px;
+      font-style: normal;
+      margin-left: 0px;
+      }
+      .flaticon-twitter:before { content: "\f108";
+        font-family: Flaticon;
+        font-size: 40px;
+      font-style: normal;
+      margin-left: 0px;
+      }
+      .flaticon-global:before { content: "\f109"; }
+      .flaticon-pin:before { content: "\f10a"; }
+      .flaticon-google-plus:before { content: "\f10b";
+        font-family: Flaticon;
+        font-size: 40px;
+      font-style: normal;
+      margin-left: 0px;
+      }
+      .flaticon-instagram-1:before { content: "\f10c";
+        font-family: Flaticon;
+        font-size: 40px;
+      font-style: normal;
+      margin-left: 0px;
+      }
+
+      .footer h3 {
+        font-size: 16px
+      }
+
+      .card{
+          margin-right: ;
+      }
+
+      #testim::before {
+        content: "";
+        width: 200px;
+      }
+      #testim::after {
+        content: "";
+        width: 200px;
+}
+@media only screen and (max-width: 991px) {
+    .navbar-light .navbar-nav .active>.nav-link {
+        color: rgba(255, 255, 255, 0.9);
+        background-color: #ff9b1a;
+        border-radius: 30px;
+        margin: 15px 4px;
+        display: block;
+        font-size: 14px;
+        margin-right: 630px;
+    }
+    .banner-section h1 {
+        font-size: 40px;
+        font-weight: 800;
+        margin-top: 180px;
+    }
+
+    .phead h2{
+        font-size: 16px;
+    }
+
+    .phead p {
+        font-size: 12px;
+        font-weight: 400;
+        padding: 0 200px;
+    }
+    .feature i::before {
+        font-size: 60px;
+    }
+
+    .feature h3 {
+        font-size: 16px;
+        }
+
+    .feature p {
+        font-size: 12px;
+        }
+    .iphone{
+        display: none;
+    }
+    .simple-step-section .heading h1 {
+        font-size: 20px;
+    }
+
+    .simple-step-section .heading span {
+        margin-left: 140px;
+    }
+
+    .steps strong {
+        height: 50px;
+        width: 50px;
+        margin-left:75px;
+    }
+    .steps{
+        margin-bottom:30px;
+    }
+    .mln-all{
+        margin-top: 8%;
+    }
+
+    .mln-all h1 {
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .mln-all p {
+        font-size: 12px;
+        font-weight: 500;
+    }
+
+    .heading p {
+        font-size: 13px;
+        font-weight: 400;
+        margin: 0px 170px 10px;
+    }
+
+    .heading {
+        text-align: center;
+        margin-bottom: 0;
+    }
+
+    .btn-custom-send {
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        color: #fff;
+        background-color: #ff9b1a;
+        border-radius: 30px;
+        font-size: 14px;
+        font-weight: 600;
+        margin-top: 0;
+    
+    }
+    .card{
+        margin-left: 25%;
+        margin-bottom: 20px;
+    }
+
+    .feedback-section .heading p {
+        font-size: 11px;
+        font-weight: 400;
+        margin: 0px 120px 1px;
+    }
+
+    .input-group>.custom-file, .input-group>.custom-select, .input-group>.form-control, .input-group>.form-control-plaintext {
+        position: relative;
+        -ms-flex: 1 1 0%;
+        flex: 0.5 1 0%;
+        min-width: 0;
+        margin-bottom: 0;
+        bottom-footer ul li {
+            color: #fff;
+            padding-left: 10px;
+            text-transform: uppercase;
+            font-size: 18px;
+
+        }
+
+}
+@media only screen and (max-width: 767px) {
+    header ul li a {
+        color: #7f7f7f;
+        font-size: 9px;
+        font-weight: 500;
+        text-transform: uppercase;
+        margin-left: 20px;
+    }
+    .banner-section ul li strong {
+        display: block;
+        font-size: 16px;
+    }
+
+    .phead p {
+        font-size: 12px;
+        font-weight: 400;
+        padding: 0 90px;
+
+    }
+
+    .serv-section p {
+        font-size: 13px;
+        font-weight: 400;
+        margin: 20px 70px;
+    }
+    .steps strong {
+        height: 50px;
+        width: 50px;
+        margin-left: 10px;
+    }
+    .simple-step-section .heading span {
+        margin-left: 51px;
+    }
+
+    .support strong {
+        color: #252525;
+        font-size: 10px;
+    }
+
+    .support img {
+        height: 250px;
+        width: 250px;
+        margin: auto;
+        padding: 10px;
+    }
+
+    .card {
+        margin-left: 15%;
+        margin-bottom: 20px;
+
+
+}
+@media only screen and (max-width: 575px) {
+    .steps {
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .simple-step-section .heading span {
+        margin-left: 45%;
+    }
+
+    .steps strong {
+        height: 50px;
+        width: 50px;
+        margin-left: 230px;
+        margin-bottom: 20px;
+    }
+
+    .steps p {
+        font-size: 12px;
+        margin: 0 115px;
+    }
+    .mln-all h1 {
+        font-size: 50px;
+        font-weight: 600;
+        margin-left: -86px;
+    }
+    .mln-all p {
+        font-size: 12px;
+        font-weight: 500;
+        margin-left: -90px
+    }
+
+    .support {
+        text-align: center;
+        margin-top: 67px;
+        font-family: font-family: 'Montserrat', sans-serif;
+        position: relative;
+        margin-left: 55px;
+    }
+
+    .footer img {
+        margin-bottom: 60px;
+        margin-left: 3%;
+    }
+    
+    .footer p {
+        color: #989898;
+        font-size: 15px;
+        margin: 0 100px;
+    }
+
+    .social {
+        margin-left: 150px;
+    }
+    .footer {
+        padding: 80px 0;
+        text-align: center;
+    }
+
+    .head h3{
+        margin-top: 10px;
+    }
+
+    .head h3::before {
+        content: "";
+        height: 2px;
+        width: 38px;
+        background: #ff9b1a;
+        display: block;
+        position: absolute;
+        bottom: 0;
+        margin: 0 0 -20px 230px;
+    }
+    [class^="flaticon-"]:before, [class*=" flaticon-"]:before, [class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+        font-family: Flaticon;
+        font-style: normal;
+        margin-left: 0;
+    }
+    .address li address {
+        display: flex;
+        font-size: 15px;
+        color: #989898;
+    }
+    .bottom-footer p {
+        color: #989898;
+        margin-top: 10px;
+        font-size: 12px;
+        margin-left: 166px;
+    }
+
+    input-group>.custom-file, .input-group>.custom-select, .input-group>.form-control, .input-group>.form-control-plaintext {
+        margin-left: 161px;
+    }
+    .address li span {
+        font-size: 14px;
+        color: #989898;
+        margin-left: 100px;
+        
+    }
+}
+@media only screen and (max-width: 400px) {}
